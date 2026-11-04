@@ -7,7 +7,7 @@ Una página de texto (secciones 0 a 8) más tres anexos que no cuentan en la ext
 | Campo | Detalle |
 | --- | --- |
 | Título del proyecto | Centinela del Café: detección de hojas de café robusta afectadas por roya o ácaro rojo |
-| Integrantes | Briyith Lisdey · Juan Pablo · Johnatan (equipo de 3) |
+| Integrantes | Briyith Lisdey Herrera Cruz · Juan Pablo Becerra Tirano · Johnatan Vélez Martínez |
 | Fecha | 2026-11-03 |
 | Versión | v3 de la Fase 1. La v1 y la v2 usaban imágenes de cacao (Mendeley) sin lugar de captura documentado; por indicación del docente, esta versión cambia la fuente de imagen a RoCoLe, la ruta por defecto del catálogo |
 
