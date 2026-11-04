@@ -31,7 +31,6 @@ fase1/Guia_Sustentacion.md           Reparto y preparación de la sustentación
 tools/                               Generadores del cuaderno y del informe
 ```
 
-`data/raw/` (fotos y anotaciones originales) **no se versiona**: contiene los correos de los anotadores. Para reconstruirla, ejecute los scripts.
 
 ## Reproducir
 
