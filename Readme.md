@@ -2,7 +2,7 @@
 
 Detección temprana de hojas de café robusta afectadas (roya o ácaro rojo) a partir de una foto. Es el proyecto del curso de Deep Learning (Maestría en Ciencia de Datos, Universidad Santo Tomás).
 
-- **Equipo:** Briyith Lisdey · Juan Pablo · Johnatan
+- **Equipo:** Briyith Lisdey Herrera Cruz · Juan Pablo Becerra Tirano · Johnatan Vélez Martínez
 - **Cliente:** técnico de campo de un lote de café robusta (CIIDEA‑ESPAM MFL, Calceta, Manabí, Ecuador)
 - **Evento:** `hoja afectada (ácaro o roya 1–4) = 1` / `sana = 0`
 
